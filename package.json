@@ -4,9 +4,7 @@
   "description": "A Carousel Test for Property Finder",
   "main": "src/main.js",
   "dependencies": {
-    "babel-polyfill": "^6.0.16",
-    "handlebars": "^4.0.6",
-    "mustache": "^2.3.0"
+    "babel-polyfill": "^6.0.16"
   },
   "devDependencies": {
     "autoprefixer-loader": "^2.0.0",
