@@ -1,0 +1,37 @@
+{
+  "name": "PropertyFinderCarousel",
+  "version": "0.1.0",
+  "description": "A Carousel Test for Property Finder",
+  "main": "src/main.js",
+  "dependencies": {
+    "babel-polyfill": "^6.0.16",
+    "handlebars": "^4.0.6",
+    "mustache": "^2.3.0"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "^2.0.0",
+    "babel-core": "^6.1.2",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.1.2",
+    "css-loader": "^0.15.1",
+    "less": "^2.5.1",
+    "less-loader": "^2.2.0",
+    "node-libs-browser": "^0.5.2",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.10.0",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "scripts": {
+    "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-dev-server",
+    "template",
+    "starter",
+    "es6",
+    "babel"
+  ],
+  "author": "Kristian Jabilles",
+  "license": "MIT"
+}
